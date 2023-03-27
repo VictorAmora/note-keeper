@@ -56,3 +56,7 @@ export default function App() {
     </NavigationContainer>
   );
 }
+
+//organizar as telas dentro da pasta usecases: colocar cada função em um arquivo .tsx; e depois importar cada tela  no app.tsx
+
+//se possível, mudar a home para a home com o header
